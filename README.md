@@ -1,7 +1,7 @@
 # Android_ToolBox
 Android常用工具类  常用自定义控件
 
-添加依赖
+添加工程依赖
 
 	allprojects {
 		repositories {
@@ -9,6 +9,8 @@ Android常用工具类  常用自定义控件
 			maven { url 'https://jitpack.io' }
 		}
 	}
+	
+  添加Module依赖
   
   dependencies {
 	        implementation 'com.github.Ivor-tan:Android_ToolBox:Tag'
