@@ -12,7 +12,7 @@ Android常用工具类  常用自定义控件
 	
   添加Module依赖
   
-  dependencies {
+	dependencies {
 	        implementation 'com.github.Ivor-tan:Android_ToolBox:Tag'
 	}
 
